@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable_emp.png.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\drawable\\emp.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_inventory_item.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\inventory_item.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable_back.png.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable_food.png.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Epic Doodles\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable_search_icon.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_inventory_update_popup.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\inventory_update_popup.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_employee_item.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\employee_item.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_employee.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_add_employee.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_food_item.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\food_item.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_employee.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_employee.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Epic Doodles\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_food.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_update_popup.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\update_popup.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\menu_search.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable_inventory.png.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\drawable\\inventory.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Epic Doodles\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Epic Doodles\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Epic Doodles\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_inventory.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_add_inventory.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\Epic Doodles\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_inventory.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_inventory.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable_rounded.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_employee_update_popup.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\employee_update_popup.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\merged_res\\debug\\drawable_add_new.xml.flat",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\drawable\\add_new.xml"
+    }
+]

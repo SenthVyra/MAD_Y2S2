@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/9d7cdc410a34cc67cbf0f567687f3549/transformed/appcompat-1.2.0/annotations.zip!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/9d7cdc410a34cc67cbf0f567687f3549/transformed/appcompat-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/9d7cdc410a34cc67cbf0f567687f3549/transformed/appcompat-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/9d7cdc410a34cc67cbf0f567687f3549/transformed/appcompat-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/9d7cdc410a34cc67cbf0f567687f3549/transformed/appcompat-1.2.0/AndroidManifest.xml" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/9d7cdc410a34cc67cbf0f567687f3549/transformed/appcompat-1.2.0/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/9d7cdc410a34cc67cbf0f567687f3549/transformed/appcompat-1.2.0/res" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/9d7cdc410a34cc67cbf0f567687f3549/transformed/appcompat-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

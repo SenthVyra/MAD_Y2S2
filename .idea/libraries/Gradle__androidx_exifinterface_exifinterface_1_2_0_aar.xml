@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.exifinterface:exifinterface:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/5f1a9394bea2834ae972c20caa0ab9de/transformed/exifinterface-1.2.0/annotations.zip!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/5f1a9394bea2834ae972c20caa0ab9de/transformed/exifinterface-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/af4a485f19ab300a06ff184bc965fe47/transformed/exifinterface-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/5f1a9394bea2834ae972c20caa0ab9de/transformed/exifinterface-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/5f1a9394bea2834ae972c20caa0ab9de/transformed/exifinterface-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/5f1a9394bea2834ae972c20caa0ab9de/transformed/exifinterface-1.2.0/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/5f1a9394bea2834ae972c20caa0ab9de/transformed/exifinterface-1.2.0/res" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/5f1a9394bea2834ae972c20caa0ab9de/transformed/exifinterface-1.2.0/AndroidManifest.xml" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/5f1a9394bea2834ae972c20caa0ab9de/transformed/exifinterface-1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.exifinterface/exifinterface/1.2.0/cae89dd2d8af4160feaed1a42933db7ccf0002d7/exifinterface-1.2.0-sources.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.exifinterface/exifinterface/1.2.0/cae89dd2d8af4160feaed1a42933db7ccf0002d7/exifinterface-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

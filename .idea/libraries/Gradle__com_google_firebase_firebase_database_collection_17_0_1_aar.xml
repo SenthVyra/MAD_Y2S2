@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database-collection:17.0.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/4bb3031c2ed9042e0192c5129609fca7/transformed/jetified-firebase-database-collection-17.0.1/res" />
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/fb919c33dd92ce6606fd4b10e64918b1/transformed/jetified-firebase-database-collection-17.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/fb919c33dd92ce6606fd4b10e64918b1/transformed/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/fb919c33dd92ce6606fd4b10e64918b1/transformed/jetified-firebase-database-collection-17.0.1/res" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/fb919c33dd92ce6606fd4b10e64918b1/transformed/jetified-firebase-database-collection-17.0.1/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/fb919c33dd92ce6606fd4b10e64918b1/transformed/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/fb919c33dd92ce6606fd4b10e64918b1/transformed/jetified-firebase-database-collection-17.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database-collection/17.0.1/8fc7b0f5eabfe38190af79a49480075517519ceb/firebase-database-collection-17.0.1-javadoc.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database-collection/17.0.1/8fc7b0f5eabfe38190af79a49480075517519ceb/firebase-database-collection-17.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database-collection/17.0.1/c24559266b9d2917cee5b26444aa5b37a268111f/firebase-database-collection-17.0.1-sources.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database-collection/17.0.1/c24559266b9d2917cee5b26444aa5b37a268111f/firebase-database-collection-17.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

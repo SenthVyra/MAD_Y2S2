@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/bc210aa728a4eeea33d4ed954c0cfcd1/transformed/lifecycle-livedata-2.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/cdbb0a5ed9226eb4b8198249161f9ff2/transformed/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/cdbb0a5ed9226eb4b8198249161f9ff2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/cdbb0a5ed9226eb4b8198249161f9ff2/transformed/lifecycle-livedata-2.0.0/res" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/cdbb0a5ed9226eb4b8198249161f9ff2/transformed/lifecycle-livedata-2.0.0/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/cdbb0a5ed9226eb4b8198249161f9ff2/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/cdbb0a5ed9226eb4b8198249161f9ff2/transformed/lifecycle-livedata-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-sources.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.0.0/740ce61935bd789380c01178bd8ce402402ebd2f/lifecycle-livedata-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/b67812afff6c750eef31b2f5aecf4fb6/transformed/drawerlayout-1.1.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/b67812afff6c750eef31b2f5aecf4fb6/transformed/drawerlayout-1.1.1/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/b67812afff6c750eef31b2f5aecf4fb6/transformed/drawerlayout-1.1.1/res" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/b67812afff6c750eef31b2f5aecf4fb6/transformed/drawerlayout-1.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.1.1/d95f7d9cd7d95cc0c038bbcf9c65f521b56fee55/drawerlayout-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_food.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_food.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_inventory.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_inventory.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\food_item.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\food_item.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_employee.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\inventory_update_popup.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\inventory_update_popup.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\inventory_item.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\inventory_item.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\employee_item.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\employee_item.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_employee.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_add_employee.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_inventory.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\activity_add_inventory.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\employee_update_popup.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\employee_update_popup.xml"
+    },
+    {
+        "merged": "E:\\Epic Doodles\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\update_popup.xml",
+        "source": "E:\\Epic Doodles\\app\\src\\main\\res\\layout\\update_popup.xml"
+    }
+]

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebaseui:firebase-ui-database:7.1.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/19fb73a85d03d01890aee621e5b4eb59/transformed/jetified-firebase-ui-database-7.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/f28bf8fefe2b6b17e45ce0677db77e86/transformed/jetified-firebase-ui-database-7.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/f28bf8fefe2b6b17e45ce0677db77e86/transformed/jetified-firebase-ui-database-7.1.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/f28bf8fefe2b6b17e45ce0677db77e86/transformed/jetified-firebase-ui-database-7.1.1/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/f28bf8fefe2b6b17e45ce0677db77e86/transformed/jetified-firebase-ui-database-7.1.1/res" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/f28bf8fefe2b6b17e45ce0677db77e86/transformed/jetified-firebase-ui-database-7.1.1/AndroidManifest.xml" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/f28bf8fefe2b6b17e45ce0677db77e86/transformed/jetified-firebase-ui-database-7.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-database/7.1.1/54dbed2826fa8a80785b95dd20cb12f81b991159/firebase-ui-database-7.1.1-javadoc.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-database/7.1.1/54dbed2826fa8a80785b95dd20cb12f81b991159/firebase-ui-database-7.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-database/7.1.1/f4cda956551b2b3e75e86791262ba50601065a8b/firebase-ui-database-7.1.1-sources.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-database/7.1.1/f4cda956551b2b3e75e86791262ba50601065a8b/firebase-ui-database-7.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

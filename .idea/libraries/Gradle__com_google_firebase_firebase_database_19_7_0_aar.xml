@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database:19.7.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/6714c5549e479218e61d7a79c9df2b86/transformed/jetified-firebase-database-19.7.0/res" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/bbfd8f79f9be52af67dc0db6f926387b/transformed/jetified-firebase-database-19.7.0/res" />
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/bbfd8f79f9be52af67dc0db6f926387b/transformed/jetified-firebase-database-19.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/bbfd8f79f9be52af67dc0db6f926387b/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/bbfd8f79f9be52af67dc0db6f926387b/transformed/jetified-firebase-database-19.7.0/res" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/bbfd8f79f9be52af67dc0db6f926387b/transformed/jetified-firebase-database-19.7.0/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/bbfd8f79f9be52af67dc0db6f926387b/transformed/jetified-firebase-database-19.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database/19.7.0/870ed83a8e7f4679ee4a0a5e5b47b9f0577a1140/firebase-database-19.7.0-javadoc.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database/19.7.0/870ed83a8e7f4679ee4a0a5e5b47b9f0577a1140/firebase-database-19.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database/19.7.0/f759c8acf7e35b5151ef6ea08452b0f6969244d0/firebase-database-19.7.0-sources.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database/19.7.0/f759c8acf7e35b5151ef6ea08452b0f6969244d0/firebase-database-19.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

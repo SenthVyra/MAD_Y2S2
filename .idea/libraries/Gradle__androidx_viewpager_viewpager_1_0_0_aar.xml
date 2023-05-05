@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.viewpager:viewpager:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/780765cea0c567bec6ca8db99cd43cba/transformed/viewpager-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/f0e1dca14b5ed3fe159b41cdf0cbf790/transformed/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/f0e1dca14b5ed3fe159b41cdf0cbf790/transformed/viewpager-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/f0e1dca14b5ed3fe159b41cdf0cbf790/transformed/viewpager-1.0.0/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/f0e1dca14b5ed3fe159b41cdf0cbf790/transformed/viewpager-1.0.0/AndroidManifest.xml" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/f0e1dca14b5ed3fe159b41cdf0cbf790/transformed/viewpager-1.0.0/res" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/f0e1dca14b5ed3fe159b41cdf0cbf790/transformed/viewpager-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

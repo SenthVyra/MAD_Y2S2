@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/8fd6eea0562aea14f3bc71e06ead11c9/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/8fd6eea0562aea14f3bc71e06ead11c9/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/8fd6eea0562aea14f3bc71e06ead11c9/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/8fd6eea0562aea14f3bc71e06ead11c9/transformed/jetified-viewpager2-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/transforms-3/8fd6eea0562aea14f3bc71e06ead11c9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/transforms-3/8fd6eea0562aea14f3bc71e06ead11c9/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/8fd6eea0562aea14f3bc71e06ead11c9/transformed/jetified-viewpager2-1.0.0/res" />
+      <root url="file://C:/jdk-18_windows-x64_bin/caches/transforms-3/8fd6eea0562aea14f3bc71e06ead11c9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/" />
+      <root url="jar://C:/jdk-18_windows-x64_bin/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,373 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\jdk-18_windows-x64_bin\caches\transforms-3\620e574f95cf7e7e93ac68ed08666fcb\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\ebce84e9fd7257a0362f444a0d83c173\transformed\navigation-ui-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e8b294cb4529770c2bdab494b89bedd5\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\jdk-18_windows-x64_bin\caches\transforms-3\2c4c92584a48447c27a41379472d1eae\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9d7cdc410a34cc67cbf0f567687f3549\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.firebaseui:firebase-ui-database:7.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\f28bf8fefe2b6b17e45ce0677db77e86\transformed\jetified-firebase-ui-database-7.1.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\b5a1dde354f7afc013622ec6eac7dc84\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8fd6eea0562aea14f3bc71e06ead11c9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\52b8a03cfc4c20a0c9c78819018423c4\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\73b0c62f888236ed1d69189c868dc01f\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e1ed62011703249d03c4615e890f5a7f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.orhanobut:dialogplus:1.11] C:\jdk-18_windows-x64_bin\caches\transforms-3\8eb188a407989eece7ea4800097d1b34\transformed\jetified-dialogplus-1.11\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\43212925780674393d894e81ec2cdee2\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\7bc9124ddd25bef25a020b51d9d428ba\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\6fb69af6583698668532bf0fd35caf8f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\3727d41d965d68ffe5020a108ad2f770\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d69f94c7b5cbe1b4d0f4823a318d8c92\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8eea484709a67dddc1ab9ae1893abd2b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\781dd23490527cfee6df6b2cc663fc9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\fb357798e0a06fc931bb8f4dac764065\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8a7b9e471f23c1540e322373ba839543\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\fb919c33dd92ce6606fd4b10e64918b1\transformed\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\jdk-18_windows-x64_bin\caches\transforms-3\2de5c47915d9536d54f3b7404942fda0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4275f7466625097397615de4509de015\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\736795ced1125049463359fb87a935ed\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\jdk-18_windows-x64_bin\caches\transforms-3\4d6c126207cce9ca011cdaf5e279c564\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\b67812afff6c750eef31b2f5aecf4fb6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\f0e1dca14b5ed3fe159b41cdf0cbf790\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\fbf631149de996a78c67c939d36f7655\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\dcb62ce1a3c954b541338f55f5bfa38e\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\75600d931bf07334d1e1710bfd5bb58a\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d7d271375ded6eff316edd27ceb0072d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bc549059837f713a6813ae954483e241\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\21aff1fa3790b705ad8e19b1c47e0d56\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\3e1b95253a53d7303fdb70ab61957878\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\2a82439a65a73cfa4d16e1323f466757\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\d02f8f5a19e8672bbc634b83e007ae26\transformed\navigation-common-2.3.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\634062af7ba6565b6ce63935447f68fe\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\343c797141be332cf662fb965493c0b7\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\4486014f96814e63b30cbd5cbf4a6eee\transformed\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\c58114abe8f2175e03e0703d114c5989\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.firebaseui:firebase-ui-common:7.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\b66b4a444b077c28755c714e6ba5bf51\transformed\jetified-firebase-ui-common-7.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\549208f07e00a000b17e2d816d2326da\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\5f1a9394bea2834ae972c20caa0ab9de\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\09b0fe8b0a4f0055ea1771a049c569b4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\af69cc20419bc8eed0659e74ad075cb0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9c6cc649220bcc2665554625eac2c8f2\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\063d38926f79239994d09c64f2790e7b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\c3c125bf8064b11d7ce7f5f8a07c4776\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d3f87aa4861bbafadab8253cbbec58bc\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\783b035d32ce5be15ab468001bd7362a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8d4069d8883cd35818f5c173a3837002\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\84046498be48793439a4476136a93af1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\cdbb0a5ed9226eb4b8198249161f9ff2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\09962048beb637d19cb59703ac8a1b2f\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9692f4eff85761d20785aa5053f9ebcb\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9ccd4574ebca9c86103f7bd859ba1dfd\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:5:5-40:19
+MERGED from [com.google.android.material:material:1.3.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e8b294cb4529770c2bdab494b89bedd5\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e8b294cb4529770c2bdab494b89bedd5\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\jdk-18_windows-x64_bin\caches\transforms-3\2c4c92584a48447c27a41379472d1eae\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\jdk-18_windows-x64_bin\caches\transforms-3\2c4c92584a48447c27a41379472d1eae\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\73b0c62f888236ed1d69189c868dc01f\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\73b0c62f888236ed1d69189c868dc01f\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e1ed62011703249d03c4615e890f5a7f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e1ed62011703249d03c4615e890f5a7f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\jdk-18_windows-x64_bin\caches\transforms-3\2de5c47915d9536d54f3b7404942fda0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\jdk-18_windows-x64_bin\caches\transforms-3\2de5c47915d9536d54f3b7404942fda0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4275f7466625097397615de4509de015\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4275f7466625097397615de4509de015\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\736795ced1125049463359fb87a935ed\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\736795ced1125049463359fb87a935ed\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\4486014f96814e63b30cbd5cbf4a6eee\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\4486014f96814e63b30cbd5cbf4a6eee\transformed\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\549208f07e00a000b17e2d816d2326da\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\549208f07e00a000b17e2d816d2326da\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\09b0fe8b0a4f0055ea1771a049c569b4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\09b0fe8b0a4f0055ea1771a049c569b4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\4486014f96814e63b30cbd5cbf4a6eee\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:8:9-37
+	android:roundIcon
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:11:9-49
+activity#com.example.EpicDoodles.AddInventoryActivity
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:12:9-15:68
+	android:exported
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:14:13-36
+	android:theme
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:13:13-49
+activity#com.example.EpicDoodles.InventoryActivity
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:16:9-18:39
+	android:exported
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:17:13-46
+activity#com.example.EpicDoodles.AddEmployeeActivity
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:19:9-21:39
+	android:exported
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:20:13-48
+activity#com.example.EpicDoodles.EmployeeActivity
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:22:9-24:39
+	android:exported
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:23:13-45
+activity#com.example.EpicDoodles.FoodActivity
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:25:9-27:39
+	android:exported
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:26:13-41
+activity#com.example.EpicDoodles.AddFoodActivity
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:28:9-30:39
+	android:exported
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:29:13-44
+activity#com.example.EpicDoodles.MainActivity
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:exported
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\jdk-18_windows-x64_bin\caches\transforms-3\620e574f95cf7e7e93ac68ed08666fcb\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] C:\jdk-18_windows-x64_bin\caches\transforms-3\620e574f95cf7e7e93ac68ed08666fcb\transformed\jetified-viewbinding-7.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\ebce84e9fd7257a0362f444a0d83c173\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\ebce84e9fd7257a0362f444a0d83c173\transformed\navigation-ui-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e8b294cb4529770c2bdab494b89bedd5\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e8b294cb4529770c2bdab494b89bedd5\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\jdk-18_windows-x64_bin\caches\transforms-3\2c4c92584a48447c27a41379472d1eae\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\jdk-18_windows-x64_bin\caches\transforms-3\2c4c92584a48447c27a41379472d1eae\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9d7cdc410a34cc67cbf0f567687f3549\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9d7cdc410a34cc67cbf0f567687f3549\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.firebaseui:firebase-ui-database:7.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\f28bf8fefe2b6b17e45ce0677db77e86\transformed\jetified-firebase-ui-database-7.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:7.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\f28bf8fefe2b6b17e45ce0677db77e86\transformed\jetified-firebase-ui-database-7.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\b5a1dde354f7afc013622ec6eac7dc84\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\b5a1dde354f7afc013622ec6eac7dc84\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8fd6eea0562aea14f3bc71e06ead11c9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8fd6eea0562aea14f3bc71e06ead11c9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\52b8a03cfc4c20a0c9c78819018423c4\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\52b8a03cfc4c20a0c9c78819018423c4\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\73b0c62f888236ed1d69189c868dc01f\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\73b0c62f888236ed1d69189c868dc01f\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e1ed62011703249d03c4615e890f5a7f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\e1ed62011703249d03c4615e890f5a7f\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.orhanobut:dialogplus:1.11] C:\jdk-18_windows-x64_bin\caches\transforms-3\8eb188a407989eece7ea4800097d1b34\transformed\jetified-dialogplus-1.11\AndroidManifest.xml:6:5-8:41
+MERGED from [com.orhanobut:dialogplus:1.11] C:\jdk-18_windows-x64_bin\caches\transforms-3\8eb188a407989eece7ea4800097d1b34\transformed\jetified-dialogplus-1.11\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\43212925780674393d894e81ec2cdee2\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\43212925780674393d894e81ec2cdee2\transformed\navigation-fragment-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\7bc9124ddd25bef25a020b51d9d428ba\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\7bc9124ddd25bef25a020b51d9d428ba\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\6fb69af6583698668532bf0fd35caf8f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\6fb69af6583698668532bf0fd35caf8f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\3727d41d965d68ffe5020a108ad2f770\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\3727d41d965d68ffe5020a108ad2f770\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d69f94c7b5cbe1b4d0f4823a318d8c92\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d69f94c7b5cbe1b4d0f4823a318d8c92\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8eea484709a67dddc1ab9ae1893abd2b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8eea484709a67dddc1ab9ae1893abd2b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\781dd23490527cfee6df6b2cc663fc9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\781dd23490527cfee6df6b2cc663fc9a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\fb357798e0a06fc931bb8f4dac764065\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\fb357798e0a06fc931bb8f4dac764065\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8a7b9e471f23c1540e322373ba839543\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8a7b9e471f23c1540e322373ba839543\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\fb919c33dd92ce6606fd4b10e64918b1\transformed\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\fb919c33dd92ce6606fd4b10e64918b1\transformed\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\jdk-18_windows-x64_bin\caches\transforms-3\2de5c47915d9536d54f3b7404942fda0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\jdk-18_windows-x64_bin\caches\transforms-3\2de5c47915d9536d54f3b7404942fda0\transformed\jetified-firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4275f7466625097397615de4509de015\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4275f7466625097397615de4509de015\transformed\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\736795ced1125049463359fb87a935ed\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\736795ced1125049463359fb87a935ed\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] C:\jdk-18_windows-x64_bin\caches\transforms-3\4d6c126207cce9ca011cdaf5e279c564\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\jdk-18_windows-x64_bin\caches\transforms-3\4d6c126207cce9ca011cdaf5e279c564\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\b67812afff6c750eef31b2f5aecf4fb6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\b67812afff6c750eef31b2f5aecf4fb6\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\f0e1dca14b5ed3fe159b41cdf0cbf790\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\f0e1dca14b5ed3fe159b41cdf0cbf790\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\fbf631149de996a78c67c939d36f7655\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\fbf631149de996a78c67c939d36f7655\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\dcb62ce1a3c954b541338f55f5bfa38e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\dcb62ce1a3c954b541338f55f5bfa38e\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\75600d931bf07334d1e1710bfd5bb58a\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\75600d931bf07334d1e1710bfd5bb58a\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d7d271375ded6eff316edd27ceb0072d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d7d271375ded6eff316edd27ceb0072d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bc549059837f713a6813ae954483e241\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bc549059837f713a6813ae954483e241\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\21aff1fa3790b705ad8e19b1c47e0d56\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\21aff1fa3790b705ad8e19b1c47e0d56\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\3e1b95253a53d7303fdb70ab61957878\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\3e1b95253a53d7303fdb70ab61957878\transformed\navigation-runtime-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\2a82439a65a73cfa4d16e1323f466757\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\2a82439a65a73cfa4d16e1323f466757\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\d02f8f5a19e8672bbc634b83e007ae26\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] C:\jdk-18_windows-x64_bin\caches\transforms-3\d02f8f5a19e8672bbc634b83e007ae26\transformed\navigation-common-2.3.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\634062af7ba6565b6ce63935447f68fe\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\634062af7ba6565b6ce63935447f68fe\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\343c797141be332cf662fb965493c0b7\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\343c797141be332cf662fb965493c0b7\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\4486014f96814e63b30cbd5cbf4a6eee\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\4486014f96814e63b30cbd5cbf4a6eee\transformed\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\c58114abe8f2175e03e0703d114c5989\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\c58114abe8f2175e03e0703d114c5989\transformed\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.firebaseui:firebase-ui-common:7.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\b66b4a444b077c28755c714e6ba5bf51\transformed\jetified-firebase-ui-common-7.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:7.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\b66b4a444b077c28755c714e6ba5bf51\transformed\jetified-firebase-ui-common-7.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\549208f07e00a000b17e2d816d2326da\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\549208f07e00a000b17e2d816d2326da\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\5f1a9394bea2834ae972c20caa0ab9de\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\5f1a9394bea2834ae972c20caa0ab9de\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\09b0fe8b0a4f0055ea1771a049c569b4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\09b0fe8b0a4f0055ea1771a049c569b4\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\af69cc20419bc8eed0659e74ad075cb0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\af69cc20419bc8eed0659e74ad075cb0\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9c6cc649220bcc2665554625eac2c8f2\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9c6cc649220bcc2665554625eac2c8f2\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\063d38926f79239994d09c64f2790e7b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\063d38926f79239994d09c64f2790e7b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\c3c125bf8064b11d7ce7f5f8a07c4776\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\c3c125bf8064b11d7ce7f5f8a07c4776\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d3f87aa4861bbafadab8253cbbec58bc\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\d3f87aa4861bbafadab8253cbbec58bc\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\783b035d32ce5be15ab468001bd7362a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\783b035d32ce5be15ab468001bd7362a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8d4069d8883cd35818f5c173a3837002\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\8d4069d8883cd35818f5c173a3837002\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\84046498be48793439a4476136a93af1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\84046498be48793439a4476136a93af1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\cdbb0a5ed9226eb4b8198249161f9ff2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\cdbb0a5ed9226eb4b8198249161f9ff2\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\09962048beb637d19cb59703ac8a1b2f\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\09962048beb637d19cb59703ac8a1b2f\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9692f4eff85761d20785aa5053f9ebcb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9692f4eff85761d20785aa5053f9ebcb\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9ccd4574ebca9c86103f7bd859ba1dfd\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\9ccd4574ebca9c86103f7bd859ba1dfd\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+		ADDED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Epic Doodles\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:7.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\f28bf8fefe2b6b17e45ce0677db77e86\transformed\jetified-firebase-ui-database-7.1.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:7.1.1] C:\jdk-18_windows-x64_bin\caches\transforms-3\f28bf8fefe2b6b17e45ce0677db77e86\transformed\jetified-firebase-ui-database-7.1.1\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:31:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.7.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\bbfd8f79f9be52af67dc0db6f926387b\transformed\jetified-firebase-database-19.7.0\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\4506df1bc41cf0a2e5bf32da3bb37c2c\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\78014678567012c4f5d9688d3a3f9e99\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\736795ced1125049463359fb87a935ed\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\736795ced1125049463359fb87a935ed\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\jdk-18_windows-x64_bin\caches\transforms-3\736795ced1125049463359fb87a935ed\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
