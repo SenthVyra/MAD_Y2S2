@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803280250552",
+    "project_id": "epic-doodles",
+    "storage_bucket": "epic-doodles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803280250552:android:75e69a438e0e015f96b64d",
+        "android_client_info": {
+          "package_name": "com.example.EpicDoodles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803280250552-lfnn3jk97cmevf8rj598jsmtj8l1u2ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2KtnhtCboUf7gWXbKEU5CEY0WductY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803280250552-lfnn3jk97cmevf8rj598jsmtj8l1u2ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

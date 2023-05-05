@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.EpicDoodles">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Epic Doodles"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EpicDoodles">
+        <activity
+            android:name=".AddInventoryActivity"
+            android:exported="true"
+            android:theme="@style/Theme.EpicDoodles.NoActionBar" />
+        <activity
+            android:name=".InventoryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddEmployeeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".EmployeeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".FoodActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddFoodActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
