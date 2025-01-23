@@ -1,4 +1,5 @@
-#Foodie-Mobile-App-MAD-Y3S2
+Foodie Mobile App
+
 
 Inventory Management
 9000 LKR
